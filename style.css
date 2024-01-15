@@ -1,0 +1,26 @@
+.mathibar{
+    background-color: yellow;
+    color:white;
+    /* text-align: center; */
+    padding: 10pt;
+    margin: 10pt;
+}
+
+h1{
+    color: red;
+}
+
+.khoja{
+    color: red;
+}
+
+.LogReg{
+    color: green;
+
+}
+
+a{
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+}
